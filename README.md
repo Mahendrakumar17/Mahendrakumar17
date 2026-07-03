@@ -77,7 +77,9 @@
 </a>
 
 </div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mahendrakumar17/Mahendrakumar17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 ---
 
 <div align="center">
