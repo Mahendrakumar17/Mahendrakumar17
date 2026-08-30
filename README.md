@@ -39,14 +39,12 @@
 
 - 🎓 **B.Tech Computer Science** @ **SRM University AP**
 - 🏆 **CGPA:** **9.39 / 10**
-- 💼 Former **IBM Full Stack Developer Intern**
-- 🔬 Former **AI Research Intern** (Fairness & Bias in Machine Learning)
+- 💼  **IBM Full Stack Developer Intern**
+- 🔬  **AI Research Intern** (Fairness & Bias in Machine Learning)
 - 🌟 **Co-Lead** @ Microsoft Student Community (2000+ Developer Community)
 - 🚀 Passionate about Backend Engineering, MERN Stack, System Design and AI.
-- 📚 Currently mastering Advanced DSA, SQL, System Design and Distributed Systems.
+- 📚 Currently mastering Advanced DSA, SQL, System Design.
 - 🤝 Open to Software Engineering, Backend and Open Source opportunities.
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, MySQL, REST APIs, Python, Machine Learning and DSA**
-- ⚡ **Fun Fact:** I love turning complex ideas into scalable products.
 
 <br clear="both"/>
 
